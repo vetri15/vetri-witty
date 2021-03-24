@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vetri-witty
 - 👀 I’m interested in Full-Stack Development
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning Computer Science Under Graduate
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me ...
 
